@@ -1,0 +1,54 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext {
+        kotlin_version = '1.7.20'
+        hilt_version = '2.38.1'
+    }
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.4.1'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10'
+
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+
+        classpath "com.google.dagger:hilt-android-gradle-plugin:$hilt_version"
+
+        classpath 'com.google.protobuf:protobuf-gradle-plugin:0.8.19'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://repo.eclipse.org/content/repositories/paho-snapshots/"}
+        maven { url "https://maven-other.tuya.com/repository/maven-releases/" }
+        maven {
+            url 'http://www.idescout.com/maven/repo/'
+            allowInsecureProtocol = true
+            name 'IDEScout, Inc.'
+        }
+        mavenCentral()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    compileSdkVersion = 33
+    targetSdkVersion = 30
+    minSdkVersion = 21 //retrofit supports 21+, java8+ only
+
+    clientVersion = '1.2.5'
+
+    mavenUrl = "https://repo.eclipse.org/content/repositories/paho-releases/"
+
+    supportLibVersion = '24.2.1'
+}

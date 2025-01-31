@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Copyright (c) 2023 ArSysOp
+
+   This program and the accompanying materials
+   are made available under the terms of the Eclipse Public License 2.0
+   which accompanies this distribution, and is available at
+   https://www.eclipse.org/legal/epl-2.0/
+
+   SPDX-License-Identifier: EPL-2.0
+-->
+<feature
+      id="org.eclipse.cdt.lsp.feature"
+      label="%featureName"
+      version="1.0.0.202309182153"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.cdt.lsp"
+         download-size="146"
+         install-size="915"
+         version="1.0.0.202309182153"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.lsp.clangd"
+         download-size="63"
+         install-size="159"
+         version="1.0.0.202309182153"
+         unpack="false"/>
+
+</feature>

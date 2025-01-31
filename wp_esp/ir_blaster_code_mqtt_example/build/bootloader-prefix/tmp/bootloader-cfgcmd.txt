@@ -1,0 +1,1 @@
+cmd='C:/Users/divya/.espressif/tools/cmake/3.16.4/bin/cmake.exe;-DSDKCONFIG=D:/esp_idf/wp_esp/ir_blaster_code_mqtt_example/sdkconfig;-DIDF_PATH=D:/esp_idf/esp-idf-v4.3;-DIDF_TARGET=esp32c3;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=D:/esp_idf/esp-idf-v4.3/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

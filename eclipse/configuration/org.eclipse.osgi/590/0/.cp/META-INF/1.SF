@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+Created-By: 17.0.8.1 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: s9tR8EIiMdCKuxq99WEsjj8JnznjVJQKEzd3hBvf9pc=
+SHA-256-Digest-Manifest-Main-Attributes: 29hhwqdjks/QCo69GtaWGlt3S7qQdBS
+ J7j7rVld7nak=
+
+Name: plugin.xml
+SHA-256-Digest: 0DCPP4Ay5G9lYa+AsFALmB6mqRIxMWi8s2TbrxZTMus=
+
+Name: intro/css/graphics/espressif_logo.png
+SHA-256-Digest: MIJ9aS1hElyqF4Sgs13sSA6kWt7JQDzLyQkd4qo3uag=
+
+Name: intro/esp_idf.xml
+SHA-256-Digest: O4/6uBZO1A9eXc+OLeaKc1q/VOXhyQhHm5rbNFqu/wI=
+
+Name: META-INF/maven/com.espressif.idf/com.espressif.idf.help/pom.xml
+SHA-256-Digest: rKid7ZsMW1zj+zwVRfQAHnbeAq6ZXDQpRpPf7UNn9RY=
+
+Name: pom.xml
+SHA-256-Digest: xW87QjSa6L1Tu6ea/sDzBdLFGPD57VBIB7sMexB4CKk=
+
+Name: com/espressif/idf/help/HelpActivator.class
+SHA-256-Digest: PBZqaKE6HJYyN3rF84Ds8IwFZxehZhs+Ml5PNi77sjs=
+
+Name: intro/css/sample.css
+SHA-256-Digest: jmvu6qhUAtqwKedRchrUQ7BpfFIP/bckboY4vTAPR1E=
+
+Name: html/eclipse_plugin_guide.html
+SHA-256-Digest: aXHAEXH9aeMOPnP0rrpPZH9/t/8F5gB6t2HCoMfSQ7Q=
+
+Name: .tycho-consumer-pom.xml
+SHA-256-Digest: unEYI2sfh5ITb+abZ9JxWbhL/GFNAhqnRi7ED8H7rLo=
+
+Name: espidfToc.xml
+SHA-256-Digest: e/pnYfHiDIBAVtYHKkJzqgiySdh2/A+H8e9+lqWA0IA=
+
+Name: html/esp_idf_guide.html
+SHA-256-Digest: URh3dzSKfBU+Jaojd0+KZeFbYPmW8Xi+dHUUiZBqoy0=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: 894OyHs6OjwVCZd/Y9d+lOHCbqATfF7LRKZbfTPWLr4=
+
+Name: META-INF/maven/com.espressif.idf/com.espressif.idf.help/pom.proper
+ ties
+SHA-256-Digest: bK2L8hjMamDfScW+43ksdj8DB7xuG1STBFI3UBBZofc=
+

@@ -1,0 +1,11 @@
+Total sizes:
+Used stat D/IRAM:  148984 bytes ( 178696 remain, 45.5% used)
+      .data size:   11012 bytes
+      .bss  size:   69456 bytes
+      .text size:   68516 bytes
+Used Flash size :  817536 bytes
+      .text     :  680476 bytes
+      .rodata   :  136804 bytes
+Total image size:  897064 bytes (.bin may be padded larger)
+C:\Users\divya\.espressif\python_env\idf4.3_py3.11_env\Scripts\python.exe D:\esp_idf\esp-idf-v4.3\components\partition_table\gen_esp32part.py D:\esp_idf\wp_esp\ir_blaster_code_mqtt_example\build\partition_table\partition-table.bin
+Total time taken to build the project: 7,702 ms

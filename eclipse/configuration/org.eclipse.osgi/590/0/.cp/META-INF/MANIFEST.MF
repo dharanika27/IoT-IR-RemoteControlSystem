@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-SymbolicName: com.espressif.idf.help;singleton:=true
+Bundle-Version: 1.0.1.202309211121
+Bundle-Activator: com.espressif.idf.help.HelpActivator
+Bundle-Vendor: %Bundle-Vendor
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.ui.intro,org.eclips
+ e.ui.intro.universal,org.eclipse.ui,org.eclipse.help
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: com.espressif.idf.help
+Bundle-ActivationPolicy: lazy
+
+Name: plugin.xml
+SHA-256-Digest: oynXoMLL9d5sVO3E5TuOC327iJLyTma8h2HIUqWvWxs=
+
+Name: intro/css/graphics/espressif_logo.png
+SHA-256-Digest: BQkHm9ohA1p5M0/BW5i0y3+G36GtbvqlFWCGvmd0z68=
+
+Name: intro/esp_idf.xml
+SHA-256-Digest: 2q2z7fLaJvnVyhKk5YdNo73Tb6sZQXE3+wwJdiVvQls=
+
+Name: META-INF/maven/com.espressif.idf/com.espressif.idf.help/pom.xml
+SHA-256-Digest: 84pUJVzqKFxJwQmVJCGH1oqIsG1nt0Y+boHn5vv4ZDs=
+
+Name: pom.xml
+SHA-256-Digest: Y73d2mzbTQpBv8ZTBnOn/7Goli6XyUK50XgiMjMkYmo=
+
+Name: com/espressif/idf/help/HelpActivator.class
+SHA-256-Digest: Kn9G/dtbPToK4W5Qx4VtWE8+d+AGU8BMXAEuz4dwFdY=
+
+Name: intro/css/sample.css
+SHA-256-Digest: cXQvO4jLTHHD98sm43PQSkKSDW3ZG16EOADDRkEvuD4=
+
+Name: html/eclipse_plugin_guide.html
+SHA-256-Digest: WzIGu9uXnUZZ0bSJyEnKEg2iU1SZk8KB8kvumSaostA=
+
+Name: .tycho-consumer-pom.xml
+SHA-256-Digest: 84pUJVzqKFxJwQmVJCGH1oqIsG1nt0Y+boHn5vv4ZDs=
+
+Name: espidfToc.xml
+SHA-256-Digest: L0oHIBg2PhSh9XT3tRuaumdeJmetOrs0cxj/AmMV7jk=
+
+Name: html/esp_idf_guide.html
+SHA-256-Digest: xXkLJ1bKgAXBFokUTY3gnXDS1Fzc5Ch5lf8rmqKr/bw=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: 0pPKJ37diY2yDeIMpgeoG83HL5O7IbLI3Vsc1tpwx+U=
+
+Name: META-INF/maven/com.espressif.idf/com.espressif.idf.help/pom.proper
+ ties
+SHA-256-Digest: N8x5AZzoNpUVnPuk1kGAEzFi4SM78DNdeYXKmEoMAxc=
+

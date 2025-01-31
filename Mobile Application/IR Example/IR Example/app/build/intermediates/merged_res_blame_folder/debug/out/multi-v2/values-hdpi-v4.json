@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ir.example.app-mergeDebugResources-28:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\esp_idf\\Mobile Application\\IR Example\\IR Example\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,116,179",
+                        "endColumns": "57,61,55",
+                        "endOffsets": "110,173,230"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,175",
+                        "endColumns": "57,61,55",
+                        "endOffsets": "108,170,226"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\divya\\.gradle\\caches\\transforms-3\\6c97dad5c2961e2c3d69c39ce4bf335b\\transformed\\appcompat-1.4.2\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "231",
+                        "endLines": "9",
+                        "endColumns": "13",
+                        "endOffsets": "503"
+                    }
+                }
+            ]
+        }
+    ]
+}

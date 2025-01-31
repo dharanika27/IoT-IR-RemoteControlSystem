@@ -1,0 +1,20 @@
+/*pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://maven-other.tuya.com/repository/maven-releases/" }
+        maven { url "https://repo.eclipse.org/content/repositories/paho-releases/"}
+    }
+}*/
+include ':Application',':app'
+include ':mqtt'
+include ':org.eclipse.paho.android.service'

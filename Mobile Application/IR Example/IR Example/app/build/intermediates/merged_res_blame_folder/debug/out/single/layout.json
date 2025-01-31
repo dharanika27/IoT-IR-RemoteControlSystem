@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.ir.example.app-mergeDebugResources-29:/layout/activity_ir_details.xml",
+        "source": "com.ir.example.app-main-32:/layout/activity_ir_details.xml"
+    },
+    {
+        "merged": "com.ir.example.app-mergeDebugResources-29:/layout/activity_learn_repeat.xml",
+        "source": "com.ir.example.app-main-32:/layout/activity_learn_repeat.xml"
+    },
+    {
+        "merged": "com.ir.example.app-mergeDebugResources-29:/layout/activity_paho_example.xml",
+        "source": "com.ir.example.app-main-32:/layout/activity_paho_example.xml"
+    }
+]

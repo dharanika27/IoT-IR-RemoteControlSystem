@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorPrimary
+dimen activity_horizontal_margin
+dimen activity_horizontal_margin_half
+dimen activity_vertical_margin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_lux_24
+drawable ic_temperature
+id connectionStatus
+id et_ir
+id imgHuimdStatus
+id imgTempStatus
+id ir_details_tv
+id learn_ir
+id learn_repeat_tv
+id pub_tv
+id repeat_ir
+id tvConnectionStatus
+id tvLux
+id tvTemp
+id tv_msg
+id txtLux
+id txtTemp
+id view1
+id view2
+id view41
+layout activity_ir_details
+layout activity_learn_repeat
+layout activity_paho_example
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
